@@ -13,12 +13,13 @@ import (
 
 const (
 	// TODO: choose a human-readable part for your hyperchain
-	HRP = ""
+	HRP = "star"
 	// TODO: choose a name for your hyperchain
-	Name = ""
+	Name = "xtar"
 	// TODO: choose a token symbol
-	Symbol = ""
-)
+	Symbol = "$"
+)go version
+
 
 var ID ids.ID
 
